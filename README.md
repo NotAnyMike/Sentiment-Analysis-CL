@@ -1,5 +1,9 @@
 # CL (Claudia Lopez)
 
+## ToDo
+* Use a lemmatizer instead of a stemmer
+* Perhaps using the tokenizer from ntlk could help a little
+
 ## Useful commands
 * `workon CL` to start the virtualenv
 * `jupyter notebook`: to run the jupyter notebook
