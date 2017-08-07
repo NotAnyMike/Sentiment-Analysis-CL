@@ -23,8 +23,8 @@ The idea is to write all the results of different settigns of the models in a ta
 ### Random Forest settings
 
 modelo		| cpd		| cpd 	| tf-idf
-min_df 		| .001	| .01		| .001
  ---	 		| ---		| ---		| ---
+**min_df** 		| .001	| .01		| .001
 scr train | 97% 	| .92		| 0.9735
 scr test 	| 0.74 	| .70		| 0.7229
 
